@@ -1,0 +1,19 @@
+baseURL = 'http://nodecum.github.io/'
+#languageCode = 'en-us'
+theme = 'PaperMod'
+defaultContentLanguage = 'en'
+[languages]
+  [languages.en]
+    title = 'nodecum peoples network'
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+         name = 'Home'
+	 url = '/'
+  [languages.de]
+    title = 'nodecum Gemeinde Netzwerk'
+    [languages.de.menu]
+      [[languages.de.menu.main]]
+         name = 'Start'
+	 url = '/'
+  [languages.fr]
+    title = 'modecum ...'
