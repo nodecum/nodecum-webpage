@@ -1,16 +1,15 @@
-baseURL = 'http://nodecum.org/'
-#languageCode = 'en-us'
+baseURL = 'https://nodecum.org/'
 theme = 'PaperMod'
 defaultContentLanguage = 'en'
 [languages]
   [languages.en]
-    title = 'nodecum peoples network'
+    title = 'nodecum network'
     [languages.en.menu]
       [[languages.en.menu.main]]
          name = 'Home'
 	 url = '/'
   [languages.de]
-    title = 'nodecum Gemeinde Netzwerk'
+    title = 'nodecum Netzwerk'
     [languages.de.menu]
       [[languages.de.menu.main]]
          name = 'Start'
