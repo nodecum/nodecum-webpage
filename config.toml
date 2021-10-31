@@ -1,4 +1,4 @@
-baseURL = 'http://nodecum.github.io/'
+baseURL = 'http://nodecum.org/'
 #languageCode = 'en-us'
 theme = 'PaperMod'
 defaultContentLanguage = 'en'
