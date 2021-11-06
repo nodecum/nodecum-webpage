@@ -1,44 +1,29 @@
 baseURL = 'https://nodecum.org/'
-#theme = 'PaperMod'
-#theme = 'hugo-theme-monochrome'
-#theme = 'beautifulhugo'
-#theme = 'ananke'
-#theme = 'anubis'
-#theme = 'amperage'
-#theme = 'black-and-light'
-#theme = 'smol'
-#theme = 'blank'
-#theme = 'hugo-xmin'
 theme = 'zen'
 defaultContentLanguage = 'en'
 [languages]
   [languages.en]
-    weight = 1
     languageName = 'English'
+    contentDir = 'content/en'
+    weight = 1
     title = 'nodecum network'
-#    [languages.en.menu]
-#      [[languages.en.menu.main]]
-#         name = 'Home'
-#	 url = '/'
   [languages.de]
-    weight = 2
     languageName = 'Deutsch'
-    title = 'nodecum Netzwerk'
-#    [languages.de.menu]
-#      [[languages.de.menu.main]]
-#         name = 'Start'
-#	 url = '/'
+    contentDir = 'content/de' 
+    weight = 2
+    title = 'nodecum netz'
   [languages.fr]
+    languageName = 'Francaise'
+    contentDir = 'content/fr'
     title = 'modecum ...'
     weight = 3
-    languageName = 'Francaise'
+
 [params]
   sidebar = false
   background_color_class = "bg-gray"
-
+  realfavicongenerator = true
 [markup]
   [goldmark]
     [renderer]
       unsafe = true # enable raw HTML in Markdown
-
 # >o)
