@@ -1,0 +1,17 @@
+// stylelint-disable color-no-hex, color-named
+
+// Site custom styles
+
+
+p,
+pre {
+  @include margin(.2 0);
+}
+
+dl,
+ol,
+ul {
+  // Add vertical rhythm margins.
+  @include margin(0.2 0);
+}
+

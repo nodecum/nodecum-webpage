@@ -6,24 +6,39 @@ defaultContentLanguage = 'en'
     languageName = 'English'
     contentDir = 'content/en'
     weight = 1
-    title = 'nodecum network'
+    title = 'nodecum - collaboratively joined'
   [languages.de]
     languageName = 'Deutsch'
     contentDir = 'content/de' 
     weight = 2
-    title = 'nodecum netz'
-  [languages.fr]
-    languageName = 'Français'
-    contentDir = 'content/fr'
-    title = 'modecum ...'
-    weight = 3
+    title = 'nodecum - gemeinsam verbunden'
+[[languages.de.menu.main]]
+    identifier = 'notes'
+    name = 'Notizen'
+    title = 'Notizen'
+    url = '/notes/'
+    weight = 6
+#  [languages.fr]
+#    languageName = 'Français'
+#    contentDir = 'content/fr'
+#    title = 'modecum ...'
+#    weight = 3
 
+disableLanguages = ["fr"]
+
+#[menu]
+#[[menu.main]]
+#  identifier = 'documentation'
+#  title = 'Dokumente'
+#  url = '/documentation/'
+#  weight = 6
 [params]
   sidebar = false
   background_color_class = "bg-gray"
   realfavicongenerator = true
+  mainSections = ""   # no listing on front page
 [markup]
-  [goldmark]
-    [renderer]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
       unsafe = true # enable raw HTML in Markdown
 # >o)
