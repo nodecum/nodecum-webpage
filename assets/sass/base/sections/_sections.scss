@@ -25,43 +25,43 @@ h1,
   @include type-layout(xxl, 1);
 
   // Set 1 unit of vertical rhythm on the top and bottom margins.
-  @include margin-top(0.2, xxl);
-  @include margin-bottom(0.2, xxl);
+  @include margin-top(0.5, xxl);
+  @include margin-bottom(0.5, xxl);
 }
 
 h2,
 %h2 {
   @include type-layout(xl, 1);
-  @include margin-top(0.2, xl);
-  @include margin-bottom(0.2, xl);
+  @include margin-top(0.5, xl);
+  @include margin-bottom(0.5, xl);
 }
 
 h3,
 %h3 {
   @include type-layout(l, 1);
-  @include margin-top(0.2, l);
-  @include margin-bottom(0.2, l);
+  @include margin-top(0.5, l);
+  @include margin-bottom(0.5, l);
 }
 
 h4,
 %h4 {
   @include type-layout(m, 1);
-  @include margin-top(0.2, m);
-  @include margin-bottom(0.2, m);
+  @include margin-top(0.5, m);
+  @include margin-bottom(0.5, m);
 }
 
 h5,
 %h5 {
   @include type-layout(s, 1);
-  @include margin-top(0.2, s);
-  @include margin-bottom(0.2, s);
+  @include margin-top(0.5, s);
+  @include margin-bottom(0.5, s);
 }
 
 h6,
 %h6 {
   @include type-layout(xs, 1);
-  @include margin-top(0.2, xs);
-  @include margin-bottom(0.2, xs);
+  @include margin-top(0.5, xs);
+  @include margin-bottom(0.5, xs);
 }
 
 @include respond-to(s) {
@@ -71,42 +71,42 @@ h6,
     @include type-layout(xxl-2, 2);
 
     // Set 1 unit of vertical rhythm on the top and bottom margins.
-    @include margin-top(1, xxl-2);
-    @include margin-bottom(1, xxl-2);
+    @include margin-top(0.5, xxl-2);
+    @include margin-bottom(0.5, xxl-2);
   }
 
   h2,
   %h2 {
     @include type-layout(xl-2, 1.5);
-    @include margin-top(1, xl-2);
-    @include margin-bottom(1, xl-2);
+    @include margin-top(0.5, xl-2);
+    @include margin-bottom(0.5, xl-2);
   }
 
   h3,
   %h3 {
     @include type-layout(l-2, 1.5);
-    @include margin-top(1, l-2);
-    @include margin-bottom(1, l-2);
+    @include margin-top(0.5, l-2);
+    @include margin-bottom(0.5, l-2);
   }
 
   h4,
   %h4 {
     @include type-layout(m-2, 1);
-    @include margin-top(1, m-2);
-    @include margin-bottom(1, m-2);
+    @include margin-top(0.5, m-2);
+    @include margin-bottom(0.5, m-2);
   }
 
   h5,
   %h5 {
     @include type-layout(s-2, 1);
-    @include margin-top(1, s-2);
-    @include margin-bottom(1, s-2);
+    @include margin-top(0.5, s-2);
+    @include margin-bottom(0.5, s-2);
   }
 
   h6,
   %h6 {
     @include type-layout(xs-2, 1);
-    @include margin-top(1, xs-2);
-    @include margin-bottom(1, xs-2);
+    @include margin-top(0.5, xs-2);
+    @include margin-bottom(0.5, xs-2);
   }
 }

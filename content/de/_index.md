@@ -34,3 +34,8 @@ selbst. Um die Erreichbarkeit zu ermöglichen bzw den Durchsatz zu
 erhöhen können einzelne Flecken über Brücken mittels anderen 
 Technologien ( Internet etc.) miteinander verbunden werden.
 
+
+'nodecum' bedeutet 'mit (cum) Knoten (Node)' und das Logo symbolisert
+einen empfangenden und sendenden Knoten: >o) ,der Baustein aus dem das
+Netz entsteht. Wir er gedreht erscheint der Mensch welcher empfängt 
+und verbunden ist.
