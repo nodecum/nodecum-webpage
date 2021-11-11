@@ -7,6 +7,12 @@ defaultContentLanguage = 'en'
     contentDir = 'content/en'
     weight = 1
     title = 'nodecum - collaboratively joined'
+[[languages.en.menu.main]]
+    identifier = 'notes'
+    name = 'Notes'
+    title = 'Notes'
+    url = '/notes/'
+    weight = 6
   [languages.de]
     languageName = 'Deutsch'
     contentDir = 'content/de' 
