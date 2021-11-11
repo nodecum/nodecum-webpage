@@ -1,11 +1,11 @@
 ---
-title: "ähnliche Projekte"
+title: "Similar projects"
 date: 2021-10-26T23:05:49+02:00
 ---
-### Quelloffen
+### Open Source
 - [Meshtastic](https://meshtastic.org/)
-- Das [Wing Projekt](http://www.wing-project.org/)
-  auf [github](https://github.com/wing-project/wing-project.github.io/wiki)
+- the [Wing Project](http://www.wing-project.org/)
+  on [github](https://github.com/wing-project/wing-project.github.io/wiki)
 ### Papers
 - [Wikipedia](https://en.wikipedia.org/wiki/Mesh_networking)
 - [Wireless Mesh Networking](https://www.mdpi.com/1999-5903/11/4/99)<br>

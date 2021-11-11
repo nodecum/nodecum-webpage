@@ -1,7 +1,6 @@
 ---
 title: "Idee"
 date: 2021-10-26T23:07:14+02:00
-draft: false
 menu: 
   main:
     weight: 1
@@ -40,5 +39,5 @@ Technologien ( Internet etc.) miteinander verbunden werden.
 {{% /center %}}
 'nodecum' bedeutet 'mit (cum) Knoten (Node)' und das Logo symbolisert
 einen empfangenden und sendenden Knoten: >o) ,der Baustein aus dem das
-Netz entsteht. Wir er gedreht erscheint der Mensch welcher empfängt 
+Netz entsteht. Wird er gedreht erscheint der Mensch welcher empfängt 
 und verbunden ist.

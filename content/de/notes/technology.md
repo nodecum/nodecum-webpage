@@ -18,7 +18,7 @@ die folgende sternförmige Struktur verwendet:
                >O -------- Internet ------- Application
         o))   Gateway                       Server
 ```
-Die "Dinge" auch Nodes (Knoten) genannt kommunizieren mit einem
+Die 'Dinge' auch Nodes (Knoten) genannt kommunizieren mit einem
 LoRaWAN Gateway welches mit dem Internet verbunden ist und seinerseits
 mit der den Nodes zugeordneten Anwendung auf einem Server kommuniziert.
 
