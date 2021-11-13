@@ -5,7 +5,7 @@ menu:
   main:
     weight: 2
 ---
-The human being should occupies the centre-stage. Our time is rich in
+The human being should occupy the centre-stage. Our time is rich in
 technical possibilities. But these are not a priori a blessing. The
 technical means of communication are impressive, but have their side
 effects. Our motivation is to develop a possible alternative.
