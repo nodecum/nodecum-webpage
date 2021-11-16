@@ -10,28 +10,31 @@ technical possibilities. But these are not a priori a blessing. The
 technical means of communication are impressive, but have their side
 effects. Our motivation is to develop a possible alternative.
 
-- Ownership / property<br>
+- **Ownership / property**<br>
   Currently, the use of telecommunication, internet and mobile telephony is
   paid for by the user. What happens to the data during the communication and
   afterwards is not verifiable for the user and also cannot be influenced (for
-  example censorship, creation of movement profiles, etc.) We see the
+  example censorship, creation of movement profiles, etc.)<br>
+  We see the
   possibility of only purchasing the communication equipment and incurring
   one-time costs, after which the use for communication incurs no further
   costs. The network is the property of the users. The open source
   documentation and programming creates transparency and allows an evaluation
   of the system.
-- Energy - Autonomy<br>
+- **Energy - Autonomy**<br>
   Today's digital communication and data processing requires a lot of energy.
-  It is not possible without the power grid. Our system is self-sufficient, as
+  It is not possible without the power grid.<br>
+  Our system is self-sufficient, as
   long as there is enough solar radiation.
-- Structure<br>
+- **Structure**<br>
   Telecommunication and the Internet have a star-shaped structure. To send an
   email to a neighbour it can be that the information is passed around the
-  globe (depending on where the mail servers are located). In the mesh
-  structure of our network, a direct path is chosen. The failure of
+  globe (depending on where the mail servers are located).<br> 
+  In the mesh structure of our network, a direct path is chosen. The failure of
   communication nodes can be compensated by neighbouring nodes.
-- Radiation exposure<br>
+- **Radiation exposure**<br>
   The development of mobile communication is aimed at achieving a high data
   throughput. This is achieved by a higher frequency (2.4 GHz) or a targeted
-  alignment (5G). Compared to this, our network has a much lower data rate,
+  alignment (5G).<br>
+  Compared to this, our network has a much lower data rate,
   lower frequency and energy density.

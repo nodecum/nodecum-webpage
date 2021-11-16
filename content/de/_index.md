@@ -10,7 +10,7 @@ menu:
 [![github](/images/github.png)](https://github.com/nodecum)
 [![mail](/images/mail.png)](mailto:info@nodecum.org)
 {{% /center %}}
-
+![nodecum-network](/images/nodecum-network.svg)
 Die Idee ist ein unabhängiges, autarkes und in der 
 Nutzung kostenfreies Kommunikationsnetz zu entwickeln. 
 Es ist Eigentum der Nutzer, welche die Geräte, 
@@ -22,8 +22,8 @@ bei freier Sicht bis zu 15 km.
 Die Energieversorgung der Knoten erfolgt über 
 Solarenergie. So können diese frei im Gelände 
 positioniert werden und sind unabhängig vom Stromnetz. 
-Die persönlichen Knoten dienen als Postfach oder 
-Webpräsenz. Der Benutzer interagiert  mit seinem Händi/Computer 
+Die persönlichen Knoten dienen als vereinfachtes Postfach oder 
+Aushängeschild. Der Benutzer interagiert  mit seinem Händi/Computer 
 oder einem speziellem Ein- und Ausgabegerät über Bluetooth/Wifi 
 mit seinem persönlichen Knoten. Der Datendurchsatz und die Kapazität 
 der Knoten erlaubt Nachrichten in Textform. Suchdienste werden über 

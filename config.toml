@@ -24,13 +24,17 @@ defaultContentLanguage = 'en'
     title = 'Notizen'
     url = '/notes/'
     weight = 6
-#  [languages.fr]
-#    languageName = 'Français'
-#    contentDir = 'content/fr'
-#    title = 'modecum ...'
-#    weight = 3
-
-disableLanguages = ["fr"]
+  [languages.fr]
+    languageName = 'Français'
+    contentDir = 'content/fr'
+    title = 'nodecum - connectés ensemble'
+    weight = 3
+[[languages.fr.menu.main]]
+    identifier = 'notes'
+    name = 'Notice'
+    title = 'Notice'
+    url = '/notes/'
+    weight = 6
 
 #[menu]
 #[[menu.main]]
