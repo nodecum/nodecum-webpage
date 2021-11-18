@@ -12,7 +12,7 @@ menu:
 {{% /center %}}
 ![nodecum-network](/images/nodecum-network.svg)
 
-L'idée est de développer un réseau de communication indépendant, 
+Notre idée est de développer un réseau de communication indépendant, 
 autosuffisant et gratuit dans son utilisation. 
 Il est la propriété des utilisateurs, qui achètent les appareils, 
 appelés nœuds dans la suite du texte. L'information est transmise 
