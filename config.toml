@@ -7,34 +7,34 @@ defaultContentLanguage = 'en'
     contentDir = 'content/en'
     weight = 1
     title = 'nodecum - collaboratively joined'
-[[languages.en.menu.main]]
-    identifier = 'notes'
-    name = 'Notes'
-    title = 'Notes'
-    url = '/notes/'
-    weight = 6
+  [[languages.en.menu.main]]
+   identifier = 'notes'
+     name = 'Notes'
+     title = 'Notes'
+     url = '/notes/'
+     weight = 6
   [languages.de]
     languageName = 'Deutsch'
     contentDir = 'content/de' 
     weight = 2
     title = 'nodecum - gemeinsam verbunden'
 [[languages.de.menu.main]]
-    identifier = 'notes'
-    name = 'Notizen'
-    title = 'Notizen'
-    url = '/notes/'
-    weight = 6
-  [languages.fr]
-    languageName = 'Français'
-    contentDir = 'content/fr'
-    title = 'nodecum - connectés ensemble'
-    weight = 3
+     identifier = 'notes'
+     name = 'Notizen'
+     title = 'Notizen'
+     url = '/notes/'
+     weight = 6
+[languages.fr]
+  languageName = 'Français'
+  contentDir = 'content/fr'
+  title = 'nodecum - connectés ensemble'
+  weight = 3
 [[languages.fr.menu.main]]
-    identifier = 'notes'
-    name = 'Notice'
-    title = 'Notice'
-    url = '/notes/'
-    weight = 6
+     identifier = 'notes'
+     name = 'Notice'
+     title = 'Notice'
+     url = '/notes/'
+     weight = 6
 
 #[menu]
 #[[menu.main]]

@@ -1,17 +1,18 @@
----
-title: "Idea"
-date: 2021-10-26T23:05:49+02:00
-menu: 
-  main:
-    weight: 1
----
-{{% center %}}
-[![telegram](/images/telegram.png)](https://t.me/nodecum)
-[![github](/images/github.png)](https://github.com/nodecum)
-[![mail](/images/mail.png)](mailto:info@nodecum.org)
-{{% /center %}}
-![nodecum-network](/images/nodecum-network.svg)
+#+title: Idea
+#+menu: main
+#+weight: 1
 
+
+#+begin_export html
+{{% center %}}
+#+end_export
+[[https://t.me/nodecum][file:/images/telegram.png]]
+[[https://github.com/nodecum][file:/images/github.png]]
+[[mailto:info@nodecum.org][file:/images/mail.png]]
+#+begin_export html
+{{% /center %}}
+#+end_export
+[[file:/images/nodecum-network.svg]]
 The idea is to develop an independent, self-sufficient communication network
 that is free to use. It is owned by the users, who purchase the devices,
 called nodes in the following. The information is forwarded from node to
@@ -27,10 +28,14 @@ itself. To enable accessibility or to increase throughput, individual
 patches can be connected to each other via bridges using other technologies
 (Internet, etc.).
 
-***
+@@html:<hr>@@
+#+begin_export html
 {{% center %}}
- ![nodecum](/images/logo.png) 
+#+end_export
+ [[file:/images/logo.png]] 
+#+begin_export html
 {{% /center %}}
+#+end_export
 'nodecum' means 'with (cum) node' and the logo symbolizes a receiving and
 sending node: >o) ,the building block from which the network is created.
 When it is turned, a person appears who receives and is connected.

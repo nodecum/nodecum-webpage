@@ -1,0 +1,22 @@
+#+title: Realization
+#+menu: main
+#+weight: 3
+
+- *Software Development* \\
+  The development of the software is done with the help of the Open Source
+  [[https://zephyrproject.org/][Zephyr]] RTOS (Real Time Operating System).
+  This is a relatively new development of the Linux Foundation which
+  incorporates the experiences with the development of the Linux Kernel.
+- *Hardware Development* \\
+  We will use already available development boards as well as special developed boards.
+- *Interest / Need* \\
+  To find out what interest there is in the project, there will be a survey on
+  the [[https://t.me/nodecum][nodecum]] telegram channel. 
+  We are looking for committed individuals who  want to contribute their 
+  skills to this project.
+  Contact via [[mailto:info@nodecum.org][email]] please.
+- *Learning* \\
+  To overcome the hurdle of understanding we want to take care of our
+  training ourselves. A documentation and
+  Guide for the development is available [[https://learning.nodecum.org/de][here]].
+

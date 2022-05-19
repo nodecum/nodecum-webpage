@@ -1,0 +1,23 @@
+#+title: Réalisation
+#+menu: main
+#+weight: 3
+
+- *Développement de Logiciels* \\
+  Le développement du logiciel se fait à l'aide de l'Open Source
+  [[https://zephyrproject.org/][Zephyr]] RTOS (Real Time Operating System) - système d'exploitation en temps réel.
+  Il s'agit d'un développement relativement récent de la Linux Foundation.
+  s'appuie sur l'expérience acquise lors du développement du noyau Linux.
+- *Développement Matériel* \\
+  Nous utiliserons des cartes de développement déjà disponibles ainsi que des cartes spécialement conçues.
+- *Intérêt / besoin* \\
+  Pour savoir quel est l'intérêt pour le projet, un sondage sera effectué sur 
+  l’application télégramme canal [[https://t.me/nodecum_fr][nodecum]].
+  Nous recherchons des enthousiastes qui
+  souhaitent mettre leurs compétences au service de ce projet.
+  Prendre contact par [[mailto:info@nodecum.org][e-mail]].
+- *Apprendre* \\ 
+  Pour franchir l'obstacle de la compréhension, nous voulons nous occuper
+   nous-mêmes de notre formation. Une documentation ainsi qu'un
+  guide pour le développement est disponible [[https://learning.nodecum.org][ici]].
+
+

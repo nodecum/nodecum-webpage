@@ -1,0 +1,23 @@
+#+title: Verwirklichung
+#+menu: main
+#+weight: 3
+
+- *Softwareentwicklung* \\
+  Die Entwicklung der Software erfolgt mit Hilfe des Open Source
+  [[https://zephyrproject.org/][Zephyr]] RTOS (Real Time Operating System) - Echtzeit Betriebssystems.
+  Dies ist eine relativ neue Entwicklung der Linux Foundation welche
+  die Erfahrungen bei der Entwicklung des Linux Kernels mit einfließen lässt.
+- *Hardwareentwicklung* \\
+  Wir werden bereits verfügbare Entwicklungsboards als auch speziell entwickelte
+  Boards benutzen. 
+- *Interesse / Bedarf* \\
+  Um herauszufinden welches Interesse am Projekt besteht gibt es 
+  eine Umfrage auf dem [[https://t.me/nodecum_de][nodecum]] Telegrammkanal.
+  Wir suchen engagierte Mitmacher die 
+  ihre Fähigkeiten in dieses Vorhaben einbringen wollen.
+  Kontaktaufnahme bitte über [[mailto:info@nodecum.org][Email]].
+- *Lernen* \\ 
+  Um die Hürde des Verständnisses zu nehmen wollen wir für
+  unsere Ausbildung selber sorgen. Eine Dokumentation und
+  Leitfaden für die Entwicklung gibt es [[https://learning.nodecum.org/de][hier]].
+

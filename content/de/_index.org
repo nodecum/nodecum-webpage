@@ -1,16 +1,17 @@
----
-title: "Idee"
-date: 2021-10-26T23:07:14+02:00
-menu: 
-  main:
-    weight: 1
----
+#+title: Idee
+#+menu: main
+#+weight: 1
+
+#+begin_export html
 {{% center %}}
-[![telegram](/images/telegram.png)](https://t.me/nodecum_de)
-[![github](/images/github.png)](https://github.com/nodecum)
-[![mail](/images/mail.png)](mailto:info@nodecum.org)
+#+end_export
+[[https://t.me/nodecum_de][file:/images/telegram.png]]
+[[https://github.com/nodecum][file:/images/github.png]]
+[[mailto:info@nodecum.org][file:/images/mail.png]]
+#+begin_export html
 {{% /center %}}
-![nodecum-network](/images/nodecum-network.svg)
+#+end_export
+[[file:/images/nodecum-network.svg]]
 Die Idee ist ein unabhängiges, autarkes und in der 
 Nutzung kostenfreies Kommunikationsnetz zu entwickeln. 
 Es ist Eigentum der Nutzer, welche die Geräte, 
@@ -33,10 +34,15 @@ selbst. Um die Erreichbarkeit zu ermöglichen bzw den Durchsatz zu
 erhöhen können einzelne Flecken über Brücken mittels anderen 
 Technologien ( Internet etc.) miteinander verbunden werden.
 
-***
+@@html:<hr>@@
+#+begin_export html
 {{% center %}}
- ![nodecum](/images/logo.png) 
+#+end_export
+ [[file:/images/logo.png]] 
+#+begin_export html
 {{% /center %}}
+#+end_export
+
 'nodecum' bedeutet 'mit (cum) Knoten (Node)' und das Logo symbolisert
 einen empfangenden und sendenden Knoten: >o) ,der Baustein aus dem das
 Netz entsteht. Wird er gedreht erscheint der Mensch welcher empfängt 

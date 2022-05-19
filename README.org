@@ -1,0 +1,26 @@
+* nodecum Webpage
+
+The Webpages are written by using emacs/go-org org mode
+and the Hugo static website compiler.
+
+* Org-Mode
+When generating the documentation the org files are parsed by
+[[https://github.com/niklasfasching/go-org][go-org]] which is a part of Hugo. See [[https://niklasfasching.github.io/go-org][go-org doc]] for supported org features.
+
+* Hugo
+[[https://gohugo.io][Hugo]] is a static website generator. This means the source files
+are converted to HTML files, which then represent the web pages. 
+
+The used theme is [[https://github.com/frjo/hugo-theme-zen][Zen]].
+
+** Installation
+: snap install hugo --channel=extended
+** Compile
+To get a local web server which automatically updates to the last changed page:
+: cd nodecum-webpage
+: hugo server --navigateToChanged
+after that you can point your webbrowser to the address [[http://localhost:1313]] to view
+the web page. Every time you save an file in the directory ~content/~
+this will cause a recompilation of the corresponding HTML file.  
+
+

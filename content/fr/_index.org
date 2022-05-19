@@ -1,17 +1,17 @@
----
-title: "Idée"
-date: 2021-10-26T23:07:14+02:00
-menu: 
-  main:
-    weight: 1
----
-{{% center %}}
-[![telegram](/images/telegram.png)](https://t.me/nodecum_fr)
-[![github](/images/github.png)](https://github.com/nodecum)
-[![mail](/images/mail.png)](mailto:info@nodecum.org)
-{{% /center %}}
-![nodecum-network](/images/nodecum-network.svg)
+#+title: Idée
+#+menu: main
+#+weight: 1
 
+#+begin_export html
+{{% center %}}
+#+end_export
+[[https://t.me/nodecum_fr][file:/images/telegram.png]]
+[[https://github.com/nodecum][file:/images/github.png]]
+[[mailto:info@nodecum.org][file:/images/mail.png]]
+#+begin_export html
+{{% /center %}}
+#+end_export
+[[file:/images/nodecum-network.svg]]
 Notre idée est de développer un réseau de communication indépendant, 
 autosuffisant et gratuit dans son utilisation. 
 Il est la propriété des utilisateurs, qui achètent les appareils, 
@@ -31,10 +31,15 @@ Afin de permettre l'accessibilité ou d'augmenter le débit,
 les différentes taches peuvent être reliées entre elles par des 
 ponts utilisant d'autres technologies (Internet, etc.).
 
-***
+@@html:<hr>@@
+#+begin_export html
 {{% center %}}
- ![nodecum](/images/logo.png) 
+#+end_export
+ [[file:/images/logo.png]] 
+#+begin_export html
 {{% /center %}}
+#+end_export
+
 'nodecum' signifie 'avec (cum) nœud' et le logo symbolise un nœud récepteur et émetteur : >o) 
 L’élément construtif à partir duquel le réseau est créé. En le tournant, on fait apparaître 
 l’ individu qui reçoit et qui est connecté.

@@ -13,6 +13,7 @@ date: 2021-10-26T23:05:49+02:00
 
 ### Open Source
 - [Meshtastic](https://meshtastic.org/) - Open Source hiking, pilot, skiing and secure GPS mesh communicator
+  - [Hays Radio](https://haysradio.com/) - where to by
 - the [Wing Project](http://www.wing-project.org/)
   on [github](https://github.com/wing-project/wing-project.github.io/wiki)
 - [disaster-radio](https://github.com/sudomesh/disaster-radio)
