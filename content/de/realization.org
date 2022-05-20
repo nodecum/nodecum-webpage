@@ -19,5 +19,5 @@
 - *Lernen* \\ 
   Um die Hürde des Verständnisses zu nehmen wollen wir für
   unsere Ausbildung selber sorgen. Eine Dokumentation und
-  Leitfaden für die Entwicklung gibt es [[https://learning.nodecum.org/de][hier]].
+  Leitfaden für die Entwicklung gibt es [[https://learn.nodecum.org/de][hier]].
 

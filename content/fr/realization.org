@@ -18,6 +18,6 @@
 - *Apprendre* \\ 
   Pour franchir l'obstacle de la compréhension, nous voulons nous occuper
    nous-mêmes de notre formation. Une documentation ainsi qu'un
-  guide pour le développement est disponible [[https://learning.nodecum.org][ici]].
+  guide pour le développement est disponible [[https://learn.nodecum.org][ici]].
 
 

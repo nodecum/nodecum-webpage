@@ -18,5 +18,5 @@
 - *Learning* \\
   To overcome the hurdle of understanding we want to take care of our
   training ourselves. A documentation and
-  Guide for the development is available [[https://learning.nodecum.org/de][here]].
+  Guide for the development is available [[https://learn.nodecum.org/de][here]].
 
