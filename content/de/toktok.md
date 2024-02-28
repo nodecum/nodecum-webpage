@@ -54,11 +54,42 @@ welches wir dann mittels `scp` auf unseren realen Rechner kopieren:
 ```
 Armbian-unofficial_24.2.0-trunk_Lime2_jammy_current_6.6.11_minimal.img
 ```
-  
+
+Wir stellen einen Link zu diesem erzeugtem Abbild zur Verfügung:
+[img.xz](/armbian/Armbian-unofficial_24.2.0-trunk_Lime2_jammy_current_6.6.11_minimal.img.xz)
+sowie die dazugehörige sha Prüfsumme:
+[sha](/armbian/Armbian-unofficial_24.2.0-trunk_Lime2_jammy_current_6.6.11_minimal.img.sha) 
+und Inhaltsbeschreibung:
+[txt](/armbian/Armbian-unofficial_24.2.0-trunk_Lime2_jammy_current_6.6.11_minimal.img.txt).
+   
 ### Micro-SD Karte beschreiben 
 Das Abbild des Betriebssystems wird mit dem Programm 
 [Balena Etcher](https://etcher.balena.io/) auf die Micro-SD 
 Karte geschrieben und überprüft.
 
-   
+## Das Betriebssystem einrichten
+
+### Verbindung über das Netzwerk
+
+Der voreingestellte Name des Servers ist `lime2`.
+Sollten mehrere Rechner mit diesem Namen im LAN Netz
+verbunden sein, 
+so könnte man mit dem Befehl
+```bash
+$ sudo nmap -sP 192.168.2.0/24
+```
+alle erreichbaren Rechner und ihre Adressen herausfinden.
+In unserem Fall hat das LAN Netz die Adresse `192.168.2.XXX`.
+
+Nun benutzen wir die herausgefundene Adresse und loggen uns
+auf dem Rechner `lime2` oder `192.168.2.xxx` als Nutzer `root` 
+mit dem Passwort `1234` ein:
+```bash{hl_lines=[5]}
+$ ssh root@192.168.2.xxx
+The authenticity of host 'lime2 (192.168.2.xxx)' can't be established.
+ECDSA key fingerprint is SHA256:......................................
+Are you sure you want to continue connecting (yes/no/[fingerprint])?
+"yes<Return>"
+```
+
 
