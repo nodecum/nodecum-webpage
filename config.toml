@@ -12,7 +12,7 @@ defaultContentLanguage = 'en'
      name = 'Notes'
      title = 'Notes'
      url = '/notes/'
-     weight = 6
+     weight = 5
   [languages.de]
     languageName = 'Deutsch'
     contentDir = 'content/de' 
@@ -23,7 +23,7 @@ defaultContentLanguage = 'en'
      name = 'Notizen'
      title = 'Notizen'
      url = '/notes/'
-     weight = 6
+     weight = 5
 [languages.fr]
   languageName = 'Français'
   contentDir = 'content/fr'
@@ -34,7 +34,7 @@ defaultContentLanguage = 'en'
      name = 'Notice'
      title = 'Notice'
      url = '/notes/'
-     weight = 6
+     weight = 5
 
 #[menu]
 #[[menu.main]]
